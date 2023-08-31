@@ -4,7 +4,7 @@
 build_dir="build"
 
 # Directorio donde se encuentra el archivo CMakeLists.txt
-source_dir="."
+source_dir="../"
 
 # Verificar si el directorio de compilación existe, si no, crearlo
 if [ ! -d "$build_dir" ]; then
