@@ -1,2 +1,2 @@
-# SR1_CargaDeModelos3D
+# SR2_FlatShading3D
 ![Imagen Navecita](navecitaGif.gif)
